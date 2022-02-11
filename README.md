@@ -3,7 +3,7 @@
 - **Escuela Profesional de Ingenieria Informatica y de Sistemas**
 - **Mineria de Datos**
 #### Docente:
-- **Carlos Fernando Montoya Cubas** -
+- **Carlos Fernando Montoya Cubas** 
 #### Alumno:
-- **Victor Pool Huillca Herrera** -
+- **Victor Pool Huillca Herrera** 
 ---
